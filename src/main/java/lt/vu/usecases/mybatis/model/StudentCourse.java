@@ -25,7 +25,7 @@ public class StudentCourse {
      *
      * @return the value of PUBLIC.STUDENT_COURSE.STUDENT_ID
      *
-     * @mbg.generated Mon May 14 20:35:20 EET 2018
+     * @mbg.generated TMon May 14 20:35:20 EET 2018
      */
     public Integer getStudentId() {
         return studentId;
